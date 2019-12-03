@@ -1,0 +1,16 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
+.vs
+/Binary
+/Source/.vs/eTechnician/v15
+/VehicleHistoryApi/.vs
+/VehicleHistoryApi/TestResults
+
