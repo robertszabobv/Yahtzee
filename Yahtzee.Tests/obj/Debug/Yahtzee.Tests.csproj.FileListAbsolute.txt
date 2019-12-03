@@ -7,7 +7,6 @@ D:\playground\TddDemo\Yahtzee.Tests\Yahtzee.Tests\bin\Debug\Microsoft.VisualStud
 D:\playground\TddDemo\Yahtzee.Tests\Yahtzee.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 D:\playground\TddDemo\Yahtzee.Tests\Yahtzee.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 D:\playground\TddDemo\Yahtzee.Tests\Yahtzee.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
-D:\playground\TddDemo\Yahtzee.Tests\Yahtzee.Tests\obj\Debug\Yahtzee.Tests.csprojAssemblyReference.cache
 D:\playground\TddDemo\Yahtzee.Tests\Yahtzee.Tests\obj\Debug\Yahtzee.Tests.csproj.CopyComplete
 D:\playground\TddDemo\Yahtzee.Tests\Yahtzee.Tests\obj\Debug\Yahtzee.Tests.dll
 D:\playground\TddDemo\Yahtzee.Tests\Yahtzee.Tests\obj\Debug\Yahtzee.Tests.pdb
