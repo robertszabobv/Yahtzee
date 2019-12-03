@@ -10,7 +10,6 @@ obj
 packages
 .vs
 /Binary
-/Source/.vs/eTechnician/v15
-/VehicleHistoryApi/.vs
-/VehicleHistoryApi/TestResults
+Yahtzee.Tests/obj
+Yahtzee.Tests/bin
 
