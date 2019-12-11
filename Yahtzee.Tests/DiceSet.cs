@@ -9,6 +9,7 @@ namespace Yahtzee.Tests
         private const int TotalNumberOfDice = 5;
         private readonly Die[] dice;
         private readonly List<Die> frozenDice = new List<Die>(TotalNumberOfDice);
+        private int numberOfRolls;
 
         public DiceSet(Die[] dice)
         {
@@ -20,12 +21,21 @@ namespace Yahtzee.Tests
             this.dice = dice;
         }
 
+        public Die[] GetAllDiceShowingValue(int upperScoresCategory)
+        {
+            return dice.Where(d => d.Value == upperScoresCategory).ToArray();
+        }
+
+        public int NumberOfRolls => numberOfRolls;
+
         public void Roll()
         {
             foreach (Die die in dice.Except(frozenDice))
             {
                 die.Throw();
             }
+
+            numberOfRolls++;
         }
 
         internal void Hold(int dieIndex)
